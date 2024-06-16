@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Ilya\source\repos\OfflineLab4\OfflineLab4\Source.c(127,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ilya\source\repos\OfflineLab4\OfflineLab4\Source.c(62): warning C4715: bolsh: значение возвращается не при всех путях выполнения
+  OfflineLab4.vcxproj -> C:\Users\Ilya\source\repos\OfflineLab4\x64\Debug\OfflineLab4.exe

@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Ilya\source\repos\OfflineLab2\OfflineLab2\Source.c(32,19): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ilya\source\repos\OfflineLab2\OfflineLab2\Source.c(32,30): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ilya\source\repos\OfflineLab2\OfflineLab2\Source.c(36,20): warning C4018: <=: несоответствие типов со знаком и без знака
+  OfflineLab2.vcxproj -> C:\Users\Ilya\source\repos\OfflineLab2\x64\Debug\OfflineLab2.exe

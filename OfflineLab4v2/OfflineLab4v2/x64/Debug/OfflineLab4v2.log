@@ -1,0 +1,14 @@
+﻿  Source.c
+C:\Users\Ilya\source\repos\OfflineLab4v2\OfflineLab4v2\Source.c(142,31): warning C4133: функция: несовместимые типы - из "int *" в "char *"
+C:\Users\Ilya\source\repos\OfflineLab4v2\OfflineLab4v2\Source.c(142,34): warning C4133: функция: несовместимые типы - из "int *" в "char *"
+C:\Users\Ilya\source\repos\OfflineLab4v2\OfflineLab4v2\Source.c(147,31): warning C4133: функция: несовместимые типы - из "int *" в "char *"
+C:\Users\Ilya\source\repos\OfflineLab4v2\OfflineLab4v2\Source.c(147,34): warning C4133: функция: несовместимые типы - из "int *" в "char *"
+C:\Users\Ilya\source\repos\OfflineLab4v2\OfflineLab4v2\Source.c(166,14): warning C4133: функция: несовместимые типы - из "int *" в "char *"
+C:\Users\Ilya\source\repos\OfflineLab4v2\OfflineLab4v2\Source.c(166,17): warning C4133: функция: несовместимые типы - из "int *" в "char *"
+C:\Users\Ilya\source\repos\OfflineLab4v2\OfflineLab4v2\Source.c(179,14): warning C4133: функция: несовместимые типы - из "int *" в "char *"
+C:\Users\Ilya\source\repos\OfflineLab4v2\OfflineLab4v2\Source.c(179,17): warning C4133: функция: несовместимые типы - из "int *" в "char *"
+C:\Users\Ilya\source\repos\OfflineLab4v2\OfflineLab4v2\Source.c(202,14): warning C4133: функция: несовместимые типы - из "int [10000]" в "char *"
+C:\Users\Ilya\source\repos\OfflineLab4v2\OfflineLab4v2\Source.c(202,17): warning C4133: функция: несовместимые типы - из "int [10000]" в "char *"
+C:\Users\Ilya\source\repos\OfflineLab4v2\OfflineLab4v2\Source.c(208,19): warning C4133: функция: несовместимые типы - из "int [10000]" в "char *"
+C:\Users\Ilya\source\repos\OfflineLab4v2\OfflineLab4v2\Source.c(208,22): warning C4133: функция: несовместимые типы - из "int [10000]" в "char *"
+  OfflineLab4v2.vcxproj -> C:\Users\Ilya\source\repos\OfflineLab4v2\x64\Debug\OfflineLab4v2.exe
